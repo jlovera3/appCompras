@@ -1,5 +1,5 @@
 import { ActivatedRoute, Router } from '@angular/router';
-import { ProveedoresService } from 'src/app/servicios/proveedores.service';
+import { ProveedoresService } from '../../servicios/proveedores.service';
 import { FormGroup, FormBuilder, Validators } from '@angular/forms';
 import { Component, OnInit } from '@angular/core';
 
